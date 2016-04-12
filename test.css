@@ -1,0 +1,136 @@
+body {
+  margin-top: 20px;
+  background-color: #eae8e7;
+  color: #767270;
+  }
+
+.personal{
+  margin-right: -15px;
+  box-shadow: 3px 3px 3px grey;
+}
+.about {
+  padding-top: 15px;
+  padding-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+  box-shadow: 3px 3px 3px grey;
+  text-align: justify;
+  }
+
+.experience {
+
+  background-color: white;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  box-shadow: 3px 3px 3px grey;
+  }
+
+.education {
+  margin-left: 15px;
+  background-color: white;
+  box-shadow: 3px 3px 3px grey;
+  }
+
+.interests{
+  margin-top: 15px;
+  margin-left: 15px;
+  background-color: white;
+  box-shadow: 3px 3px 3px grey;
+}
+
+.container{
+  height: 1200px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+
+.icon{
+  font-size: 36px;
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+
+  .icon2{
+    font-size: 20px;
+
+}
+
+.icon3{
+  font-size: 25px;
+  margin-right: 25px;
+  margin-top: 15px;
+}
+
+.date{
+  color: #4A90D8;
+
+}
+.bb{
+  border-bottom: solid 2px #eae8e7;
+}
+
+.bb2{
+  border-bottom: solid 2px #4D67C7;
+}
+
+.text{
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+
+.s{
+  margin-top: 17px;
+  margin-bottom: 20px;
+      text-align: center;
+}
+.progress1 {
+  height:2px;
+  width:200px;
+  background-color: gray;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.progress-bar1 {
+  height:2px;
+  width:40%;
+  position: absolute;
+  background-color: blue;
+}
+
+.progress2 {
+  height:2px;
+  width:200px;
+  background-color: gray;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.progress-bar2 {
+  height:2px;
+  width:70%;
+  position: absolute;
+  background-color: blue;
+}
+
+.progress3 {
+  height:2px;
+  width:200px;
+  background-color: gray;
+  position: relative;
+}
+
+.progress-bar3 {
+  height:2px;
+  width:90%;
+  position: absolute;
+  background-color: blue;
+}
+
+.name{
+margin-top: 45px;
+}
